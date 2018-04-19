@@ -9,7 +9,15 @@ import com.andre.storeapp.Model.Product
 object DataService {
     val categories = listOf(
             Category("SHIRTS", "shirtimage"),
-            Category("HOODIES", "hoodieiage"),
+            Category("HOODIES", "hoodieimage"),
+            Category("HATS", "hatimage"),
+            Category("DIGITAL", "digitalgoodsimage"),
+            Category("SHIRTS", "shirtimage"),
+            Category("HOODIES", "hoodieimage"),
+            Category("HATS", "hatimage"),
+            Category("DIGITAL", "digitalgoodsimage"),
+            Category("SHIRTS", "shirtimage"),
+            Category("HOODIES", "hoodieimage"),
             Category("HATS", "hatimage"),
             Category("DIGITAL", "digitalgoodsimage")
     )
