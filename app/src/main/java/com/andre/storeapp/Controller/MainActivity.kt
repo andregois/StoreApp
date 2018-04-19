@@ -1,7 +1,8 @@
-package com.andre.storeapp
+package com.andre.storeapp.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.andre.storeapp.R
 
 class MainActivity : AppCompatActivity() {
 
